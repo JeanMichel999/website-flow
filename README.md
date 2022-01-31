@@ -3,3 +3,4 @@ Camembert
 comté
 gruyère
 Bleu d'Avergne
+Emmental
